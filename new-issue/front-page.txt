@@ -17,13 +17,13 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    20-28C/85%
+Monday:    13-22C/40%
+Tuesday:   13-18C/45%
+Wednesday: 15-21C/50%
+Thursday:  15-22C/40%
+Friday:    16-22C/60%
+Saturday:  10-18C/70%
 
 June 27, 2016
 25 cents
