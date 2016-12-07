@@ -5,16 +5,19 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+* Cat Stuck in Tree
+* Cat Shows:
 
 ## Sports
-* headline
-* headline
+* Upcoming Track Meet!
+* Ping-pong Championship @ Westlake Park
+* Basketball Finals: Crows vs Moonauts
 
 ## Culture
-* headline
-* headline
+* Battle of the Bands
+* Board Game Tournament
+* Soduku Count Dooku
+* Greenhouse Gardening
 
 ## Weekly Weather
 Sunday:    20-28C/85%
