@@ -18,6 +18,7 @@ Serving you daily printed news since before newspapers went online.
 * Board Game Tournament
 * Soduku Count Dooku
 * Greenhouse Gardening
+* Smoking Is Good For You
 
 ## Weekly Weather
 Sunday:    20-28C/85%
